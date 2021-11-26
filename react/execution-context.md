@@ -1,5 +1,10 @@
 # Execution Context
 
+## PRIOR KNOWLEDGE
+- Stack
+- Queue
+- Call Stack/Execution Context Stack
+
 ## Key points:
 
 - Created when it invokes a function or global
