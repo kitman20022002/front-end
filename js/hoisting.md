@@ -3,6 +3,9 @@
 ## PRIOR KNOWLEDGE
  - function expression 
  - class expression
+ - function
+ - variables
+ - classes
 
 ## Key points:
 
