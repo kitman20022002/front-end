@@ -34,7 +34,7 @@ The result of the code above is the same: "My cat's name is Tiger"
 ```
 
 ## Varaible hositing
-- **Before** the **first line get executed** the JS will **declared and initialized values **undefined**
+- **Before** the **first line get executed** the JS will **declared and initialized values undefined**
 - If you try to **call the variables before** it **initialized**, the value will be **undefined**
 
 ## Class hositing
@@ -43,3 +43,4 @@ The result of the code above is the same: "My cat's name is Tiger"
 ## Misunderstanding Concpts
 - **function expression** in **not hoisted**
 - **class expression** in **not hoisted**
+- Hoisting **does not move the decleation** up to the **top of the JS file** 
