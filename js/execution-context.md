@@ -18,11 +18,11 @@
 
 ### Global execution context
 
-- Is created when the file first loads in the browser (before line 1)
+- Is **created** when the file **first loads in the browser** (before line 1)
 
 ### Function execution context
 
-- Is created when it finds any function call
+- Is **created** when it finds any **function call**
 
 ## Phases
 
