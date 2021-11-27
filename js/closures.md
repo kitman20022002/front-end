@@ -5,12 +5,12 @@
 
 ## Key points:
 
-- The combination of a function bundled together +  references to its surrounding state (references to its surrounding state in JS = lexical environment) 
+- The combination of a **function bundled together** +  **references** to its **surrounding state** (references to its surrounding state in JS = lexical environment) 
 - Closure gives you access to an outer function’s scope from an inner function
 
 
 ## Description 
-Closures has mtach two conditions
+**Closures** has to match **two conditions**
 1. The combination of a function bundled together, which looks like following
 ```
 function doStuff() {
@@ -20,7 +20,7 @@ function doStuff() {
 }
 `````
 
-2. References to its surrounding state in JS we use lexical environment (This need to based on previous condition)
+2. **References to its surrounding state** in JS we **use lexical environment** (This need to **based on previous condition**)
 
 ```
 function doStuff() {
@@ -43,6 +43,6 @@ function doStuff() {
 //will output hi
 ```
 
-1. **The combination of a function bundled together = doStuff and abc function **
+1. **The combination of a function bundled together = doStuff and abc function**
 2. **References to its surrounding state = surroundingState have access to the const surroundingState** 
 
