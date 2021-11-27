@@ -43,6 +43,6 @@ function doStuff() {
 //will output hi
 ```
 
-1. The combination of a function bundled together = doStuff and abc function 
-2. References to its surrounding state = surroundingState have access to the const surroundingState
+1. `The combination of a function bundled together = doStuff and abc function `
+2. `References to its surrounding state = surroundingState have access to the const surroundingState`
 
