@@ -4,7 +4,7 @@
 - argument
 
 ## Keypoints
-- First-Class Function needs to match following three conditions
+- First-Class Function needs to match following **three Requiements**
   - Functions can be pass as arguments
   - You can the return a function from functions
   - Save them in variables.
