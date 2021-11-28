@@ -14,7 +14,7 @@
 
 ## Description 
 **Closures** has to match **two conditions**
-1. The combination of a function bundled together, which looks like following
+1. The combination of a function bundled together, which looks like following = doStuff and abc are bundled together
 ```
 function doStuff() {
     function abc(){
@@ -23,7 +23,7 @@ function doStuff() {
 }
 `````
 
-2. **References to its surrounding state** in JS we **use lexical environment** (This need to **based on previous condition**)
+2. **References to its surrounding state** in JS we **use lexical environment** (This need to **based on previous condition**) = abc can access the variable surroundingState
 
 ```
 function doStuff() {
