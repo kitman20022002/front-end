@@ -8,7 +8,8 @@
 - Match Two Conditoions
     - **function bundled together**
     - **references** to its **surrounding state** (references to its surrounding state in JS = lexical environment) 
-- Benfits: Closure gives you access to an outer function’s scope from an inner function
+- Benfits
+    - Closure gives you access to an outer function’s scope from an inner function
 
 
 ## Description 
