@@ -3,6 +3,7 @@
 ## PRIOR KNOWLEDGE
 - Stack
 - Functions
+- this
 
 
 ## Key points:
@@ -10,6 +11,7 @@
 - How to create a function
 - How to use a call/use a function
 - A block of code designed to perform a particular task.
+- Types: Normal, Arrow functions
 
 
 ## How to create a function
