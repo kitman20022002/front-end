@@ -14,6 +14,7 @@
 
 ## Description 
 Closures has to match **Two Requiements**
+
     - function bundled together
     - references to its surrounding state (references to its surrounding state in JS = lexical environment)
     
@@ -40,7 +41,7 @@ function doStuff() {
 ```
 
 ### Code example 
-A example for Closures is below      
+Based a two requiements above a closures will look like below      
 
 ```
 function doStuff() {
