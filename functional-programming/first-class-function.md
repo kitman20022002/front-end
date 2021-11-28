@@ -12,7 +12,7 @@
 function = first class objects
 
 
-### Functions can be pass as arguments
+### Functions can be pass as arguments   = function a can be passed in b as a argument
 ```
 function b(f){
 }
@@ -21,10 +21,10 @@ function a(){
 
 }
 
-b(a) //functions can be passed as a argument  = function a can be passed in b as a argument
+b(a)
 ```
 
-### You can the return a function from functions
+### You can the return a function from functions = You can the return a function from functions = You can return a from b
 ```
 function b(){
   return a();
@@ -34,13 +34,13 @@ function a(){
 
 }
 
-b(a) //You can the return a function from functions = You can return a from b
+b(a)
 ```
 
 
-### Save them in variables.
+### Save them in variables = = Save function in variable b
 ```
-const b = function(){ // Save them in variables b
+const b = function(){ 
   return a();
 }
 
