@@ -13,8 +13,10 @@
 
 
 ## Description 
-**Closures** has to match **two conditions**
-1. The combination of a function bundled together, which looks like following = doStuff and abc are bundled together
+Closures has to match **Two Requiements**
+
+### Examples
+1. The combination of a function bundled together, which looks like following = **doStuff and abc are bundled together**
 ```
 function doStuff() {
     function abc(){
@@ -23,7 +25,7 @@ function doStuff() {
 }
 `````
 
-2. **References to its surrounding state** in JS we **use lexical environment** (This need to **based on previous condition**) = abc can access the variable surroundingState
+2. References to its surrounding state in JS we use lexical environment = **abc can access the variable surroundingState**
 
 ```
 function doStuff() {
@@ -46,6 +48,4 @@ function doStuff() {
 //will output hi
 ```
 
-1. **The combination of a function bundled together = doStuff and abc function**
-2. **References to its surrounding state = surroundingState have access to the const surroundingState** 
 
