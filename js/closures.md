@@ -14,6 +14,7 @@
 
 ## Description 
 Closures has to match **Two Requiements**
+
     - function bundled together
     - references to its surrounding state (references to its surrounding state in JS = lexical environment)
     
