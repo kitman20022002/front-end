@@ -1,4 +1,4 @@
-# Execution Context
+# Functions
 
 ## PRIOR KNOWLEDGE
 - Stack
