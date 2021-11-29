@@ -22,9 +22,9 @@ before the code executes
   - The Interpreter builds a tree (AST) to declare all the **functions** , **variables**, **classes** and assign a default value before the code get executed  
 
 - Three types of hoisiting
-  - functions 
-  - variables 
-  - classes 
+  - functions hoisiting
+  - variables hoisiting
+  - classes hoisiting
 
 ## Function hoisting
 As mentions above one of the advantages of hoisting is that it lets you use a function before you declare it in your code.
