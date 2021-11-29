@@ -12,6 +12,7 @@
   - functions
   - variables 
   - classes
+  
 before the code executes
 
 - Benfits
