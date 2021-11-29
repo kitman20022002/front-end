@@ -21,7 +21,7 @@
   - variables hoisiting
   - classes hoisiting
 
-## Function hoisting
+## Benfits
 As mentions above one of the advantages of hoisting is that it lets you use a function before you declare it in your code.
 ```
 catName("Tiger");
@@ -45,9 +45,21 @@ The result of the code above is the same: "My cat's name is Tiger"
 */
 ```
 
+## Function hoisting
+We can call catName before the function has been decleared
+```
+catName("Tiger");
+
+function catName(name) {
+  console.log("My cat's name is " + name);
+}
+/*
+The result of the code above is: "My cat's name is Tiger"
+*/
+```
+
 ## Varaible hositing
-- **Before** the **first line get executed** the JS will **declared and initialized values undefined**
-- If you try to **call the variables before** it **initialized**, the value will be **undefined**
+We can call catName before the varabiles has been decleared
 
 ## Class hositing
 
