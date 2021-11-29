@@ -22,7 +22,7 @@
   - classes hoisiting
 
 ## Benfits
-As mentions above one of the advantages of hoisting is that it lets you use a function before you declare it in your code.
+As mentions above one of the advantages of hoisting is that it lets you use a function before you declare it in your code. Example: We can call catName before the function has been decleared
 ```
 catName("Tiger");
 
