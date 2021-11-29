@@ -13,8 +13,8 @@
 
 ## Description 
 
-1. Currying is a function that takes one argument at a time = addCurry, b and c function takes one argument at a time
-2. Returns a new function expecting the next argument except the last one = Except for function c, function b and addCurry returns a function 
+1. Currying is a function that takes one argument at a time = **addCurry, b and c function takes one argument at a time**
+2. Returns a new function expecting the next argument except the last one = **Except for function c, function b and addCurry returns a function**
 
 ```
 const addCurry = (a) => {
