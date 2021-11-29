@@ -9,9 +9,9 @@
 
 ## Key points:
 - Hoisiting: a process where the interpreter declares one of the following
-  - functions
-  - variables 
-  - classes
+  - functions hoisting
+  - variables hositing
+  - classes hositing
   
 before the code executes
 
