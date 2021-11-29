@@ -9,9 +9,9 @@
 
 ## Key points:
 - Hoisiting: a process where the interpreter declares one of the following
-  - functions hoisting
-  - variables hositing
-  - classes hositing
+  - functions 
+  - variables 
+  - classes 
   
 before the code executes
 
@@ -20,6 +20,11 @@ before the code executes
 
 - How does hositing work
   - The Interpreter builds a tree (AST) to declare all the **functions** , **variables**, **classes** and assign a default value before the code get executed  
+
+- Three types of hoisiting
+  - functions 
+  - variables 
+  - classes 
 
 ## Function hoisting
 As mentions above one of the advantages of hoisting is that it lets you use a function before you declare it in your code.
