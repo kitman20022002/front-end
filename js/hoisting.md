@@ -8,7 +8,7 @@
  - classes
 
 ## Key points:
-- Hoisiting: a process where the **interpreter declares** one of the following **functions variables or classes  before the code executes**
+- Hoisiting: a process where the **interpreter declares** one of the following **functions variables or classes  before** the **code executes**
 
 - Benfits
   - Let you to use a function before you declare it in your code 
