@@ -1,13 +1,17 @@
-# JWT 
+# JWT
 
 ## Desc
+
 - JWT is generate by HCAC algorithm
-- JWT is create by three things : 
-  - JOSE Header: contains metadata about the type of token and  
+- JWT is create by three things :
+  - JOSE Header: contains metadata about the type of token and
   - JWS Payload: user information
-  - JWS Signature: signature to verify that the sender of the JWT 
+  - JWS Signature: signature to verify that the sender of the JWT
 
+## Workflow
 
-## Workflow 
-- Backend generate JWT 
+- Backend generate JWT
 
+## Questions
+
+- Can you verfiy a token without storing into the database
