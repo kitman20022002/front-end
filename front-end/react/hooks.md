@@ -30,6 +30,7 @@ function FriendStatus(props) {
   You might be thinking that we’d need a separate effect to perform the cleanup. But code for adding and removing a subscription is so tightly related that useEffect is designed to keep it together. If your effect returns a function, React will run it when it is time to clean up:
 
 ### useEffect(): 
+- Allows you to perform side effects in your components: side effects = fetching data, directly updating the DOM, and timers.
 - By default, effects run after every completed render
 - But you can choose to fire them only when certain values have changed
 
