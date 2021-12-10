@@ -8,6 +8,26 @@
   - JWS Payload: user information
   - JWS Signature: signature to verify that the sender of the JWT
 
+## JWT parts
+- Identifies which algorithm is used to generate the signature
+
+### Header
+- The header consits of two part
+  - alg: HS256
+  - typ: JWT 
+
+### Payload
+- User information
+
+### Signature
+- The signature is calculated by 
+  - encoding the header using Base64url Encoding RFC 4648 
+  - payload using Base64url Encoding RFC 4648 
+  - concatenating the two together with a period separator
+
+### Token is created 
+- const token = base64urlEncoding(header) + '.' + base64urlEncoding(payload) + '.' + base64urlEncoding(signature)
+
 ## Workflow
 
 - Backend generate JWT
