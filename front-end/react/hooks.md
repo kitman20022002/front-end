@@ -34,3 +34,6 @@ function FriendStatus(props) {
 - By default, effects run after every completed render
 - But you can choose to fire them only when certain values have changed
 
+### useContext():
+- A way to manage state globally
+- It can be used together with the useState Hook to share state between deeply nested components more easily than with useState alone.
