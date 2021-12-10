@@ -1,6 +1,7 @@
 # Hooks 
 
 ### Key Points
+- Hooks allow function components to have access to state 
 - Only for function compoment
 
 
