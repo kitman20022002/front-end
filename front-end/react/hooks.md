@@ -38,3 +38,17 @@ function FriendStatus(props) {
 ### useContext():
 - A way to manage state globally
 - It can be used together with the useState Hook to share state between deeply nested components more easily than with useState alone.
+
+### useReducer():
+- The useReducer Hook is similar to the useState Hook.
+- It allows for custom state logic.
+- If you find yourself keeping track of multiple pieces of state that rely on complex logic, useReducer may be useful.
+
+### useCallback():
+- The React useCallback Hook returns a memoized callback function. memoization = caching a value so that it does not need to be recalculated.
+
+### useMemo():
+- The React useMemo Hook returns a memoized value.
+
+
+
