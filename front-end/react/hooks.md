@@ -1,13 +1,20 @@
 # Hooks 
 
 ### Key Points
-- Returns a stateful value, and a function to update it
 - Only for function compoment
 
 
 
 ## React Defined Hooks 
-- useEffect : tells react that your compoment needs to do something after render. Similar to CompomentDidMound and componentWillUnmount
+### useEffect() : 
+- Allows us to track state in a function component
+- Returns a stateful value, and a function to update it
+- State generally refers to data or properites that need to be tracking in an application
+
+#### 
+- Returns a stateful value, and a function to update it
+
+tells react that your compoment needs to do something after render. Similar to CompomentDidMound and componentWillUnmount
 ```
 import React, { useState, useEffect } from 'react';
 
