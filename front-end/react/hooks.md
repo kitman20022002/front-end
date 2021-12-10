@@ -2,8 +2,7 @@
 
 ### Key Points
 - Returns a stateful value, and a function to update it
-- Description 
-- Only for funcailly compoment
+- Only for function compoment
 
 
 
