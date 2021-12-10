@@ -11,7 +11,7 @@
 - Returns a stateful value, and a function to update it
 - State generally refers to data or properites that need to be tracking in an application
 
-#### 
+#### How does it work ? 
 - Returns a stateful value, and a function to update it
 
 tells react that your compoment needs to do something after render. Similar to CompomentDidMound and componentWillUnmount
