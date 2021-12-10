@@ -58,4 +58,4 @@ HMAC_SHA256(
 
 ## Questions
 
-- Can you verfiy a token without storing into the database
+- Can you verfiy a token without storing into the database ? 
