@@ -21,9 +21,25 @@ function add(){
 }
 ```
 ## How to use/call a function 
+
 ```
 add()
 ```
+
+## How to create a function with partameters
+
+```
+function add(num){
+
+}
+```
+
+## How to use/call a function with params
+
+```
+add(1)
+```
+
 
 ## Description
 - When do we need to use a function
