@@ -11,10 +11,11 @@
 - How to create a function
 - How to use a call/use a function
 - A block of code designed to perform a particular task.
-- Types: Normal, Arrow functions
+- Types: Normal, Arrow functions, anonymous functions
+- Function Expressions: function expression can be stored in a varaible.
 
 
-## How to create a function
+## How to create/defined a function
 ```
 function add(){
   
@@ -26,7 +27,7 @@ function add(){
 add()
 ```
 
-## How to create a function with partameters
+## How to create/defined a function with partameters
 
 ```
 function add(num){
