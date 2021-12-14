@@ -1,3 +1,7 @@
+# this keyword
+
+## Keypoints
+
 - In a method, this refers to the owner object.
 - Alone, this refers to the global object.
 - In a function, this refers to the global object.
