@@ -17,8 +17,8 @@
 	
 ## Restful standarded 
 
-|Verb | Path | Action | Route | Name |
-|-----|------|--------|-------|------|
+|Verb | Path | Action | Route Name |
+|-----|------|--------|-------|
 | GET |	/photo | index	| photo.index
 | GET |	/photo/create | create | photo.create
 | POST | /photo | store | photo.store
