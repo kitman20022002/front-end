@@ -11,6 +11,8 @@ Feel Free to sent me a email to kitmanwork@gmail.com if you wanted to
 ## Tech Stack 
 React / Node / JAVA
 
+For more details skill set please visit https://www.linkedin.com/in/kitman-yiu/
+
 ## Website 
 Please feel free to visit my website
 
