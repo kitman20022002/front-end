@@ -15,7 +15,7 @@
 	- config: configuation related setup
 	- routes/v1 : as it says
 	
-## Restful standarded 
+## Restful standard
 
 |Verb | Path | Action | Route Name |
 |-----|------|--------|-------|
