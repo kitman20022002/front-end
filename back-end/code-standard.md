@@ -45,3 +45,9 @@
 422: Unprocessable Entity
 500: Internal server error. Ideally you're not going to be explicitly returning this, but if something unexpected breaks, this is what your user is going to receive.
 503: Service unavailable. Pretty self explanatory, but also another code that is not going to be returned explicitly by the application.
+
+
+## Reference
+
+- https://laravel.com/docs/5.1/controllers
+
