@@ -23,7 +23,7 @@
 | GET |	/photo/create | create | photo.create
 | POST | /photo | store | photo.store
 | GET | /photo/{photo} | show | photo.show
-| GET |	/photo/{photo}/edit	edit | photo.edit
+| GET |	/photo/{photo}/edit | edit | photo.edit
 | PUT/PATCH	| /photo/{photo} | update | photo.update
 | DELETE | /photo/{photo} | destroy | photo.destroy
 
