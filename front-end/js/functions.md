@@ -19,11 +19,11 @@ glossary,js,front-end
 ## Definition
 - A block of code designed to perform a particular task
 
-## When to use 
+## Use cases
 - When you wanted to group a set of statements that performs a task or calculates a value
 
 ## Not to use 
-- N/A
+- When you don't need to group a set of statements that performs a task or calculates a value
 
 ## Usage
 
