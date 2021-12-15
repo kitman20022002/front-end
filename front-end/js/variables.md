@@ -5,7 +5,10 @@
 
 ## Key points:
 
-- A variable = statment + name + value 
+- Two things to understand
+  - declare a variable 
+  - use a variables
+- We must declear a variable before using it 
 - A variable is a container for a value, like a number we might use in a sum, or a string that we might use as part of a sentence.
 - Three statement for variables: var, let, const
 - 5 types:  Numbers, String, Booleans, Array, Object
@@ -14,34 +17,50 @@
 ```
 var hi = 0
 ```
+## Declare a variables
+Declear A variable = STATMENT + NAME + VALUE (eg: var a = 3)
 
-## Statement
+### STATMENT
+3 types
 
-### var
+#### var
+eg: var i = 0 
 - Can be assign in runtime(when the code is running)
 - Function-scoped or global variables
-
-### let 
+  
+#### let 
+eg: let i = 0
 - Can be assign in runtime(when the code is running)
 - Block-scoped local variables
 
-### const
+#### const
+eg: const i = 0
 - Must initialize when you declare them
 - Can't assign them a new value after you've initialized them.
 - Block-scoped local variables
 
-### Difference between var, let 
-- The difference is the scope, however we are not gonna explain in here, this concepts would be explained in more details once we go deep more into JS
+### NAME
+- name cannot contain spaces.
+- name must begin with a letter, an underscore (_) or a dollar sign ($).
+- name can only contain letters, numbers, underscores, or dollar signs.
+- name are case-sensitive.
 
-## Types
+### VALUE 
+5 types of value 
+### Types
+#### Numbers
+eg: 0, let i = 0
+
+#### Strings
+eg: "hi", let i = "hi"
 
 
-### Numbers
+#### Booleans
+eg: true , let i = true
 
-### Strings
+#### Arrays
+eg: [] , let i = []
 
-### Booleans
+#### Objects
 
-### Arrays
-
-### Objects
+eg: {} , let i = {}
