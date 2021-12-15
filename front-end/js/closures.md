@@ -3,6 +3,11 @@
 ## PRIOR KNOWLEDGE
 - Lexical environment
 
+## Questions 
+- What is Closures ? 
+- How to create a Closures ? 
+- What are the benfits of closures ? 
+
 ## Key points:
 
 - Closures would need to match the following **Two Requiements**
