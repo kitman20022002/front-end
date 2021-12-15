@@ -38,7 +38,7 @@ Declear A variable = STATMENT + NAME + VALUE (eg: var a = 3)
 - var i = 0 
 - let i = 0
 - const i = 0
-- 
+
 #### var
 - Can be assign in runtime(when the code is running)
 - Function-scoped or global variables
@@ -60,20 +60,23 @@ Declear A variable = STATMENT + NAME + VALUE (eg: var a = 3)
 
 ### VALUE 
 5 types of value 
-### Types
+let i = 0
+let i = "hi"
+let i = true
+let i = []
+ let i = {}
+
 #### Numbers
-eg: 0, let i = 0
+eg: 0
 
 #### Strings
-eg: "hi", let i = "hi"
-
+eg: "hi"
 
 #### Booleans
-eg: true , let i = true
+eg: true
 
 #### Arrays
-eg: [] , let i = []
+eg: [] 
 
 #### Objects
-
-eg: {} , let i = {}
+eg: {}
