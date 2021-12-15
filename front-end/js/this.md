@@ -11,8 +11,7 @@
 - Understand what is this ?
 - Understand when to use this ?
 
-## Use case 
-- When you needed to the get the current value of this object
+
 
 ## Keypoints
 - this is a js keyword
@@ -24,7 +23,9 @@
 - In an event, this refers to the element that received the event.
 - Methods like call(), and apply() can refer this to any object.
 
-
+## Use case 
+- When you needed to the get the current value of this object
+- 
 ## Definition
 Is a keyword refers to the object it belongs to
 
