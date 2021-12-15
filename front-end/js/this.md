@@ -11,6 +11,8 @@
 - Understand what is this ?
 - Understand when to use this ?
 
+## Use case 
+- When you needed to the get the current value of this object
 
 ## Keypoints
 - this is a js keyword
