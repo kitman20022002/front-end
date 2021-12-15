@@ -4,7 +4,13 @@
 - Fragments lets you group list of children without adding extra nodes to the DOM
 - Short Syntax is <></>
 
-### Examples
+## Tag
+glossary,react,front-end
+
+## Definition
+- A element lets you group list of children without adding extra nodes to the DOM
+
+### Usuage
 
 Create React Fragments
 - Needed to use this if you need a key=""
