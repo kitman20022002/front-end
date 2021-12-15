@@ -60,11 +60,11 @@ Declear A variable = STATMENT + NAME + VALUE (eg: var a = 3)
 
 ### VALUE 
 5 types of value 
-let i = 0
-let i = "hi"
-let i = true
-let i = []
- let i = {}
+- let i = 0
+- let i = "hi"
+- let i = true
+- let i = []
+- let i = {}
 
 #### Numbers
 eg: 0
