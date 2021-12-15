@@ -1,5 +1,11 @@
 # JWT
 
+## Question
+- What is JWT ?
+- How to use JWT ? 
+- Understand how JWT is construct
+- Can you verfiy a token without storing into the database ? 
+
 ## Desc
 
 - JWT is generate by HCAC algorithm
@@ -58,4 +64,3 @@ HMAC_SHA256(
 
 ## Questions
 
-- Can you verfiy a token without storing into the database ? 
