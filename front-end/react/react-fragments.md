@@ -8,7 +8,7 @@
 glossary,react,front-end
 
 ## Definition
-- A element that was design to lets you group list of children without adding extra nodes to the DOM
+- A element that was design to let you group list of children without adding extra nodes to the DOM
 
 ## Usage
 
