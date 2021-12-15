@@ -6,13 +6,15 @@
 ## Tag
 glossary,js,front-end
 
-## Key points:
+## Questions
+- What is a variable 
+- When to use a variable 
+- How to create a variable
+- How to use a variable 
 
-- Two things to understand
-  - declare a variable 
-  - use a variables
-- We must declear a variable before using it 
-- A variable is a container for a value, like a number we might use in a sum, or a string that we might use as part of a sentence.
+## Key points:
+- Variable = a container for a value, like a number we might use in a sum, or a string that we might use as part of a sentence.
+- Understand you must declear a variable before using it 
 - Three statement for variables: var, let, const
 - 5 types:  Numbers, String, Booleans, Array, Object
 
@@ -31,7 +33,7 @@ glossary,js,front-end
 var hi = 0
 ```
 ## Declare a variables
-Declear A variable = STATMENT + NAME + VALUE (eg: var a = 3)
+Declear/create a variable = STATMENT + NAME + VALUE (eg: var a = 3)
 
 ### STATMENT
 3 types
