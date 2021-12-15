@@ -9,12 +9,13 @@
 glossary,js,front-end
 
 ## Key points:
-
-- How to create a function
-- How to use a call/use a function
-- A block of code designed to perform a particular task.
-- Types: Normal, Arrow functions, anonymous functions
-- Function Expressions: function expression can be stored in a varaible.
+- Understand function = a block of code designed to perform a particular task.
+- 3 ways declaring a function: Normal, Arrow functions, anonymous functions
+- Understand Function Expressions = function expression can be stored in a varaible.
+- Know how to 
+  - declare a function
+  - use/call a functions 
+- You have to declare a function before use/calling it
 
 ## Definition
 - A block of code designed to perform a particular task
@@ -28,6 +29,8 @@ glossary,js,front-end
 ## Usage
 
 ### How to create/defined a function
+Declare a function = function + name + () + {} 
+
 ```
 function add(){
   
