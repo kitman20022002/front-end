@@ -8,9 +8,9 @@
 glossary,react,front-end
 
 ## Definition
-- A element lets you group list of children without adding extra nodes to the DOM
+- A element that was design to lets you group list of children without adding extra nodes to the DOM
 
-### Usuage
+## Usage
 
 Create React Fragments
 - Needed to use this if you need a key=""
