@@ -8,9 +8,8 @@
 - concept,js,front-end
 
 ## Questions:
-- Understand what is this
-- Understand when to use this  
-
+- Understand what is this ?
+- Understand when to use this ?
 
 
 ## Keypoints
