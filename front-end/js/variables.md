@@ -3,6 +3,9 @@
 ## PRIOR KNOWLEDGE
 - Scope
 
+## Tag
+glossary,js,front-end
+
 ## Key points:
 
 - Two things to understand
@@ -12,6 +15,16 @@
 - A variable is a container for a value, like a number we might use in a sum, or a string that we might use as part of a sentence.
 - Three statement for variables: var, let, const
 - 5 types:  Numbers, String, Booleans, Array, Object
+
+
+## Definition
+- A variable is a container for a value, like a number we might use in a sum, or a string that we might use as part of a sentence.
+
+## Use cases
+- When you need to store and use a value later in the program you write
+
+## Not to use 
+- When you don't need to use it later in the program
 
 ## Example
 ```
