@@ -35,19 +35,19 @@ Declear A variable = STATMENT + NAME + VALUE (eg: var a = 3)
 
 ### STATMENT
 3 types
-
+- var i = 0 
+- let i = 0
+- const i = 0
+- 
 #### var
-eg: var i = 0 
 - Can be assign in runtime(when the code is running)
 - Function-scoped or global variables
   
 #### let 
-eg: let i = 0
 - Can be assign in runtime(when the code is running)
 - Block-scoped local variables
 
 #### const
-eg: const i = 0
 - Must initialize when you declare them
 - Can't assign them a new value after you've initialized them.
 - Block-scoped local variables
