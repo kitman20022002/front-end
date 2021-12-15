@@ -19,6 +19,11 @@ glossary,js,front-end
 ## Definition
 - A block of code designed to perform a particular task
 
+## When to use 
+- When you wanted to group a set of statements that performs a task or calculates a value
+
+## Not to use 
+- N/A
 
 ## Usage
 
