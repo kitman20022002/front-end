@@ -48,7 +48,7 @@ function FriendStatus(props) {
 - The React useCallback Hook returns a memoized callback function. memoization = caching a value so that it does not need to be recalculated.
 
 ### useMemo():
-- The React useMemo Hook returns a memoized value.
+- The React useMemo Hook returns a memoized value, if same inputs occur again
 
 
 
